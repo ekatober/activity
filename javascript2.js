@@ -60,7 +60,8 @@ var vibe = [
 	'hawaii',
 	'anime club',
 	'scater style',
-	'heroin chic style'
+	'heroin chic style',
+	'office style'
 
 ]
 
