@@ -18,7 +18,7 @@ var activity = [
 	'picnic',
 	'book reading',
 	'breakdance',
-	'qigun',
+	'qi gong',
 	'ask questions',
 	'sex',
 	'orgy',
