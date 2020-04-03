@@ -31,6 +31,9 @@ var activity = [
 	'salt doe sculpting',
 	'smile competition',
 	'bar hopping',
+	'clean dishes',
+	'vacuum floors',
+	'kiss your reflection',
 	'call mom'
 ]
 function newActivity() {
